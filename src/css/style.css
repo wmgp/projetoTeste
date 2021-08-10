@@ -118,7 +118,7 @@ nav a{
 .components-section{
     flex: 2;
     flex-direction: column;
-    background-color: #00ff00;
+    background-color: #DDD;
 }
 
 .components-aside{
